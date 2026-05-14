@@ -37,4 +37,4 @@ C++ · OOP · Smart pointers · Unit tests · Doxygen docs
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/abderrahmen-sallem) · [abderrahmen.sallem.1@ulaval.ca](mailto:abderrahmen.sallem.1@ulaval.ca)
+[LinkedIn](https://linkedin.com/in/abderrahmen-sallem)
